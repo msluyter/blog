@@ -3,18 +3,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Blog Title</title>
   <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="https://example.com/msluyter/feed/feed.xml" rel="self" />
-  <link href="https://example.com/msluyter/" />
+  <link href="https://example.com/blog/feed/feed.xml" rel="self" />
+  <link href="https://example.com/blog/" />
   <updated>2025-08-20T00:00:00Z</updated>
-  <id>https://example.com/msluyter/</id>
+  <id>https://example.com/blog/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
     <title>Testing</title>
-    <link href="https://example.com/msluyter/blog/firstpost/" />
+    <link href="https://example.com/blog/blog/firstpost/" />
     <updated>2025-08-20T00:00:00Z</updated>
-    <id>https://example.com/msluyter/blog/firstpost/</id>
+    <id>https://example.com/blog/blog/firstpost/</id>
     <content type="html">&lt;p&gt;Yadda yadda...&lt;/p&gt;
 &lt;h2 id=&quot;section-header&quot;&gt;Section Header&lt;/h2&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
@@ -31,12 +31,12 @@
   </entry>
   <entry>
     <title>This is my fourth post</title>
-    <link href="https://example.com/msluyter/blog/fourthpost/" />
+    <link href="https://example.com/blog/blog/fourthpost/" />
     <updated>2018-09-30T00:00:00Z</updated>
-    <id>https://example.com/msluyter/blog/fourthpost/</id>
+    <id>https://example.com/blog/blog/fourthpost/</id>
     <content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
 &lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/msluyter/blog/fourthpost/xbVnp_hAou-350.avif 350w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/msluyter/blog/fourthpost/xbVnp_hAou-350.webp 350w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/msluyter/blog/fourthpost/xbVnp_hAou-350.png&quot; alt=&quot;A possum parent and two possum kids hanging from the iconic red balloon&quot; width=&quot;350&quot; height=&quot;685&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/blog/fourthpost/xbVnp_hAou-350.avif 350w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/blog/fourthpost/xbVnp_hAou-350.webp 350w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/blog/fourthpost/xbVnp_hAou-350.png&quot; alt=&quot;A possum parent and two possum kids hanging from the iconic red balloon&quot; width=&quot;350&quot; height=&quot;685&quot;&gt;&lt;/picture&gt;
 &lt;h2 id=&quot;section-header&quot;&gt;Section Header&lt;/h2&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
 </content>
